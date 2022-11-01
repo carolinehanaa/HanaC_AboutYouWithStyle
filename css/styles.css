@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(189, 189, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    justify-content: center;
+    text-align: center;
+    color:white;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    color:white;
+}
+
+.img-1 {
+    border-radius: 75px;
+    max-width: 45%;
+}
+
+.img-2 {
+    max-width: 10%;
+}
